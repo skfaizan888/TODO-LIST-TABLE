@@ -1,0 +1,68 @@
+.content-input-name{
+  width: 700px;
+  height: 40px;
+  margin: 10px;
+}
+.content-input-email{
+    width: 340px;
+    height: 50px;
+    margin: 10px;
+
+}
+.content-input-number{
+    width: 340px;
+    height: 50px;
+    margin: 10px;
+}
+.content-input-project{
+    width: 700px;
+    height: 40px;
+    margin: 10px;
+}
+.content-input-desc{
+    width: 700px;
+    height: 40px;  
+    margin: 10px; 
+}
+.content-input-start-date{
+    width: 340px;
+    height: 50px;
+    margin: 10px;
+}
+.content-input-target-date{
+    width: 340px;
+    height: 50px;
+    margin: 10px;
+}
+.content-button-save{
+    width: 150px;
+    height: 40px;
+    margin: 10px;
+    font-size: 20px;
+    color: #ffff;
+    background-color: rgb(248, 33, 33);
+    border: 2px solid rgb(248, 33, 33);
+}
+.content-button-view{
+    width: 150px;
+    height: 40px;
+    margin: 10px;
+    font-size: 20px;
+    background-color: green;
+    border: 2px solid green;
+    color: #ffff;
+
+}
+.content-table{
+    border: 1px solid black;
+    margin-left: 300px;
+}
+.content-table tr{
+    border: 1px solid black;
+}
+.content-table th{
+    border: 1px solid black;
+}
+.content-table td{
+    border: 1px solid black;
+}
